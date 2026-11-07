@@ -1,0 +1,5 @@
+# Build output and run artifacts, reproducible with run_both.sh
+cpp/ridesharing
+out/
+*.o
+.DS_Store
